@@ -2,7 +2,7 @@
 A simple reminder bot for discord servers
 
 ## Setup
-Edit the config and chose your desired prefix for commands as well as inserting your token.
+Edit the config.json file and chose your desired prefix for commands as well as inserting your token.
 Using the (prefix)here command to set the bot to announce the reminders in your desired channel.
 
 ## Commands
