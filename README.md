@@ -1,4 +1,4 @@
-# Simple-Reminder-bot-discord-bot
+# Simple Reminder bot(discord-bot)
 A simple reminder bot for discord servers
 
 ## Setup
